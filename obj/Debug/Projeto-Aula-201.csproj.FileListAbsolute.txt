@@ -1,0 +1,8 @@
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\bin\Debug\Projeto-Aula-201.exe.config
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\bin\Debug\Projeto-Aula-201.exe
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\bin\Debug\Projeto-Aula-201.pdb
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\obj\Debug\Projeto-Aula-201.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\obj\Debug\Projeto-Aula-201.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\obj\Debug\Projeto-Aula-201.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\obj\Debug\Projeto-Aula-201.exe
+C:\Users\Vinicius\Desktop\ProjetosC#\Projeto-Aula-201\obj\Debug\Projeto-Aula-201.pdb
